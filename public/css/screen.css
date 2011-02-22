@@ -1,5 +1,30 @@
+html{
+    font-family:sans-serif;}
+
 h1 {
     color:green;
     border-bottom: 10px dotted red;
+}
+ul{
+    width:500px;
+
+}
+
+h2 a{
+    color:green;
+}
+
+ul li{
+    color:white;
+    list-style-type:none;
+    padding: 10px;
+    -moz-border-radius:10px;
+    background:gray;
+    margin:10px 0px;
+}
+
+ul li a, a:active{
+    color:green;
+
 }
 
